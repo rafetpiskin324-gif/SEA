@@ -1,5 +1,1 @@
-NETLIFY YAYINLAMA
-1) ZIP'i bilgisayarında çıkar.
-2) Netlify Drop sayfasına index.html dosyasının bulunduğu klasörü sürükle.
-3) Ana sayfa otomatik açılır.
-Not: Oyun Three.js ve model dosyalarını internet üzerinden yükler; internet bağlantısı gerekir.
+Netlify için düzeltilmiş SEA OF LEGENDS dosyası. Netlify Drop'a bu klasörü (index.html içeren klasör) yükleyin. Eski deploy yerine yeni deploy yapın.
